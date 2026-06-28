@@ -83,9 +83,6 @@
 <p align="center">
    <img height="180em" src="https://github-readmeapp.vercel.app/api?username=Dhruv-kundu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhruv-kundu&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kundu&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/Dhruv-kundu)
 

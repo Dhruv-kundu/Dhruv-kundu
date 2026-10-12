@@ -1,20 +1,48 @@
 ![DHRUV](<Abstract Technology Profile LinkedIn Banner.png>)
-
-
 <h1 align="center">
-  <span style="color:#4FC3F7;">Hi</span>, 
-  I'm <span style="color:#F48FB1;">Dhruv</span> 👋
+  <span style="color:#4FC3F7;">Hi</span>, I'm <span style="color:#F48FB1;">Dhruv</span> 👋
 </h1>
 
 <h3 align="center">
-  🎓 Machine Learning Engineer | Data Analyst | Freelancer | Graphic Designer 
+  🎓 AI/ML Engineer &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; Open Source Contributor &nbsp;|&nbsp; Freelancer
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=34&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=100&lines=Solving+Real-World+Problems+with+AI;Building+End-to-End+ML+and+Web+Applications;Research+Paper+Analysis+and+Implementation;Open+to+Collaborations+for+Impactful+Projects">
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=100&lines=Building+RAG+and+Agentic+AI+Systems;Solving+Real-World+Problems+with+AI;Implementing+ML+Algorithms+from+Scratch;Research+Paper+Analysis+and+Implementation;Open+to+Collaborations+for+Impactful+Projects">
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-blueviolet?style=flat-square" alt="B.Tech AI & ML" />
+  <img src="https://img.shields.io/badge/CGPA-9.82-success?style=flat-square" alt="CGPA 9.82" />
+  <img src="https://img.shields.io/badge/GSSoC%202026-Top%200.5%25%20of%2043%2C587-FF8C00?style=flat-square" alt="GSSoC 2026 Top 0.5%" />
+  <img src="https://img.shields.io/badge/Springer%20Nature-Book%20Chapter%20(Under%20Review)-00539F?style=flat-square" alt="Springer Nature Book Chapter Under Review" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AICTE-003366?style=for-the-badge" alt="AICTE" />
+  <img src="https://img.shields.io/badge/National%20Internship%20Portal-FF9933?style=for-the-badge" alt="National Internship Portal" />
+  <img src="https://img.shields.io/badge/VOIS-E60000?style=for-the-badge&logo=vodafone&logoColor=white" alt="VOIS" />
+  <img src="https://img.shields.io/badge/Vodafone%20Idea%20Foundation-ED1C24?style=for-the-badge" alt="Vodafone Idea Foundation" />
+  <img src="https://img.shields.io/badge/1M1B-00A86B?style=for-the-badge" alt="1M1B" />
+  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild" />
+</p>
+
 ---
+
+## 🚀 About Me
+
+I'm a **B.Tech AI & ML student at GGSIPU** (2nd year, 9.82 CGPA) who believes in learning technology from the fundamentals before applying it to real-world problems. My work spans **classical ML, Retrieval-Augmented Generation (RAG), and agentic AI systems**, backed by a habit of re-implementing algorithms from scratch and reading research papers.
+
+- 🧠 Building **end-to-end ML, RAG & agentic AI applications** .
+- 🔬 Analyzing and reproducing **research papers** (currently: physics-informed EEG classification)
+- 🌱 Applying AI to **sustainability, agriculture, healthcare and public-policy** problems
+- 🤝 Contributing to **open source** (GirlScript Summer of Code 2026)
+- ✍️ Writing technical content, including a **Springer Nature book chapter** (under review)
+- 🎨 Freelancing in presentation design, technical writing and graphic design
+
+---
+
+# 🛠️ Tech Stack
 
 ## 👨‍💻 Programming Languages
 
@@ -46,10 +74,25 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
+## 🤖 GenAI & Agentic AI
+
+![IBM watsonx.ai](https://img.shields.io/badge/IBM%20watsonx.ai-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Granite](https://img.shields.io/badge/IBM%20Granite-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+![BeeAI](https://img.shields.io/badge/BeeAI-FFB300?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
 ## 🔧 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 
 ## 📝 Technical & Research Skills
@@ -68,6 +111,29 @@
 <a href="https://www.springernature.com/" target="_blank">
   <img src="https://img.shields.io/badge/Springer%20Nature-00539F?style=for-the-badge&logo=spring&logoColor=white" alt="Springer Nature" />
 </a>
+
+## 🏢 Internships & Programs
+
+![AICTE](https://img.shields.io/badge/AICTE-003366?style=for-the-badge)
+![National Internship Portal](https://img.shields.io/badge/National%20Internship%20Portal-FF9933?style=for-the-badge)
+![VOIS](https://img.shields.io/badge/VOIS-E60000?style=for-the-badge&logo=vodafone&logoColor=white)
+![Vodafone Idea Foundation](https://img.shields.io/badge/Vodafone%20Idea%20Foundation-ED1C24?style=for-the-badge)
+![1M1B](https://img.shields.io/badge/1M1B-00A86B?style=for-the-badge)
+![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+---
+
+## 🏆 Highlights
+
+| | |
+|---|---|
+| 🥇 **GSSoC 2026** | Ranked among the top 0.5% of 43,587 contributors |
+| 📚 **Springer Nature** | Abstract accepted; full chapter manuscript under review |
+| 🛰️ **IIRS-ISRO** | Completed the AI/ML for Geo Data Analytics certificate course |
+| 🏦 **Forage Simulations** | Deloitte Data Analytics and JPMorgan Chase Quantitative Research |
+| 🎓 **Academics** | 9.82 CGPA in B.Tech Year 1; consistent class topper through school |
+
+---
 
 ## 📈 GitHub Analytics
 
@@ -127,14 +193,4 @@
   <i>🌌 Destiny always demands patience 🌌</i>
 </div>
 
-## 🚀 About Me
 
-Hi, I'm **Dhruv** 👋
-
-I'm an aspiring **Machine Learning Engineer** who believes in learning technology from its fundamentals before applying it to real-world problems.
-
-- Learning **Machine Learning & Deep Learning from Scratch**  
-- Building **End-to-End AI & ML Applications**  
-- Exploring **Research Papers** and implementing modern AI techniques  
-- Contributing to **Open Source (GSSoC)**
----

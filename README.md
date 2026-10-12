@@ -1,4 +1,4 @@
-![DHRUV](<Abstract Technology Profile LinkedIn Banner.png>)
+![DHRUV](<Github Banner.png>)
 <h1 align="center">
   <span style="color:#4FC3F7;">Hi</span>, I'm <span style="color:#F48FB1;">Dhruv</span> 👋
 </h1>

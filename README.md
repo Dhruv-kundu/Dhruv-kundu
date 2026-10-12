@@ -147,10 +147,6 @@ I'm a **B.Tech AI & ML student at GGSIPU** (2nd year, 9.82 CGPA) who believes in
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhruv-kundu&theme=react&utcOffset=8" alt="Productive Time" />
 </p>
 
-<p align="center">
-   <img height="180em" src="https://github-readmeapp.vercel.app/api?username=Dhruv-kundu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</p>
-
 </div>
 
 

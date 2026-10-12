@@ -151,11 +151,6 @@ I'm a **B.Tech AI & ML student at GGSIPU** (2nd year, 9.82 CGPA) who believes in
    <img height="180em" src="https://github-readmeapp.vercel.app/api?username=Dhruv-kundu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kundu&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/Dhruv-kundu)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-
 </div>
 
 
